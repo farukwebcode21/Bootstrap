@@ -1,0 +1,36 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.banner-section{
+    background-color: #2508b8;
+    padding: 40px;
+}
+.custom-toggler{
+    border: 1px solid white;
+}
+.nav-link{
+    color: white;
+}
+
+#login-button{
+    background-color:crimson;
+    color: white;
+    padding: 10px 30px;
+    border: none;
+}
+
+h1{
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+}
+.card-title{
+    font-weight: bold;
+}
+.news-section{
+    padding: 40px;
+}
+.higilets-section h1{
+    color: black;
+    font-size: 40px;
+}
